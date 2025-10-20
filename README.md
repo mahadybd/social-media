@@ -4,10 +4,10 @@ The website is responsive and built with HTML, CSS, and JavaScript. This site of
 
 ## Live Demo
 
-You can explore the live demo of the site [here](https://socialmedia-inspire-html.netlify.app).
+You can explore the live demo of the site [here](https://social-media-socialbook.netlify.app).
 
 You can visit the site and explore its various pages:
-- [Profile Page](https://socialmedia-inspire-html.netlify.app/profile)
+- [Profile Page](https://social-media-socialbook.netlify.app/profile)
 
 
 ## Key Features
@@ -21,7 +21,8 @@ You can visit the site and explore its various pages:
 
 ## Screenshots
 
-![Home page](https://raw.githubusercontent.com/mahadybd/html-linkedin-clone/master/screenshot/screen.jpg)
+![Home page](https://raw.githubusercontent.com/mahadybd/social-media/master/screenshot/screen.jpg)
+
 
 ## Technologies Used
 
